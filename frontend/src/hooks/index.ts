@@ -10,3 +10,5 @@ export type { Balance, BalanceState, UseBalanceOptions } from './useBalance';
 export { useTransactions } from './useTransactions';
 export { useUserProfile } from './useUserProfile';
 export { useWallet } from './useWallet';
+export { useClipboard } from './useClipboard';
+export type { UseClipboardOptions, UseClipboardReturn } from './useClipboard';
